@@ -81,7 +81,7 @@ Implemented and compared multiple machine learning models:
 
 ### 1. Clone the Repository:
 ```bash
-git clone [repository link]
+git clone https://github.com/tvareddy009/weather_forecasting
 ```
 
 ### 2. Install Dependencies:
