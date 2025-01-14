@@ -52,10 +52,10 @@ The dataset captures various weather parameters, including temperature, humidity
 
 ### 3. Forecasting Models
 Implemented and compared multiple machine learning models:
-- **Linear Regression:** Best performance with MAE of 0.0933.  
-- **SARIMA:** Captured seasonality effectively (MAE: 0.0956).  
-- **Ensemble Models:** Balanced robustness with MAE of 0.1057.  
-- **ARIMA:** Struggled with accuracy (MAE: 0.1140).  
+- **Linear Regression:** Best performance .  
+- **SARIMA:** Captured seasonality effectively .  
+- **Ensemble Models:** Balanced robustness.  
+- **ARIMA:** Struggled with accuracy.  
 
 ### 4. Advanced Analyses
 - **Feature Importance:** Used Random Forest to identify key predictors such as humidity, air quality indices, and wind speed.  
